@@ -13,3 +13,4 @@ Webotron currently has the following feet chures:
 
 - List buckets
 - List contents of a bucket
+- Create and set up a new bucket
